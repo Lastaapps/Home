@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Domů</string>
+    <string name="home">🏡 Domů 🏠</string>
+    <string name="folder">Domu</string>
+    <string name="error_loading">Chyba při načítání obrázku</string>
+    <string name="def_img_name">Co dělat</string>
+    <string name="explanation">Nyní vložte fotky vašeho domova do alba \"Domov\" v Galerii, aby bylo možno aplikaci spustit</string>
+    <string name="img_deleted">Nemaže obrázky za běhu aplikace nebo nevkládejte nesprávné soubory!!!</string>
+    <string name="permission">Potřebujeme načítat data z externího úložiště. Povolte to nyní v dialogu nebo v nastaveních.</string>
+    <string name="dialog">Dialog</string>
+    <string name="later">Později</string>
+    <string name="settings">Nastavení</string>
+</resources>

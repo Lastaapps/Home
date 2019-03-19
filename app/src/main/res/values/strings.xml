@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="home">🏡 Home 🏠</string>
+    <string name="folder">Home</string>
+    <string name="error_loading">Error while loading image</string>
+    <string name="def_img_name">What to do</string>
+    <string name="explanation">Now insert the photos of your home into folder \"Home\" in the Gallery to run the app</string>
+    <string name="img_deleted">Do not delete images during slideshow or insert not correct ones!!!</string>
+
+    <string name="google_app_id" translatable="false">1:45243451148:android:3b31a2cace283a52</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyHJabT0f_y6teYS8jlGbsSD0jEsYsGYo</string>
+
+    <string name="permission">We need to read data from external storage. Allow it now in dialog or in the settings.</string>
+    <string name="dialog">Dialog</string>
+    <string name="later">Later</string>
+    <string name="settings">Settings</string>
+
+</resources>
